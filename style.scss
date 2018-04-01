@@ -10,8 +10,8 @@
 
 // set up web fonts
 @import "web-fonts";
-$sans: web-fonts-url(web-fonts-url("IBM Plex Sans" : "Regular"));
-$serif: web-fonts-url(web-fonts-url("IBM Plex Serif" : "Regular"));
+$sans: web-fonts-url(web-fonts-url(("IBM Plex Sans" : "Regular")));
+$serif: web-fonts-url(web-fonts-url(("IBM Plex Serif" : "Regular")));
 
 // Syntax highlighting @import is at the bottom of this file
 
