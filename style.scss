@@ -11,8 +11,8 @@
 // set up web fonts
 @import "web-fonts";
 $web-fonts-protocol: "https";
-$sans: web-fonts-url(web-fonts-url("IBM Plex Sans"));
-$serif: web-fonts-url(web-fonts-url("IBM Plex Serif"));
+@import url(web-fonts-url("IBM Plex Sans"));
+@import url(web-fonts-url("IBM Plex Serif"));
 
 // Syntax highlighting @import is at the bottom of this file
 
