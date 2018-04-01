@@ -37,7 +37,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $body;
+  font: 18px/1.4 $bodytext;
   color: $darkGray;
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $headers;
+  font-family: $headertext;
   color: $darkerGray;
   font-weight: bold;
 
@@ -212,7 +212,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $title;
+  font-family: $sitename;
   font-weight: 500;
   font-size: 32px;
   letter-spacing: 1px;
