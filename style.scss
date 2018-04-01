@@ -13,6 +13,7 @@
 @import url(web-fonts-url("IBM Plex Sans"));
 @import url(web-fonts-url("IBM Plex Serif"));
 @import url(web-fonts-url("Overpass"));
+@import url(web-fonts-url("Bungee Shade"));
 
 
 // Syntax highlighting @import is at the bottom of this file
@@ -208,7 +209,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $overpass;
+  font-family: $title;
   font-weight: 500;
   font-size: 32px;
   letter-spacing: 1px;
