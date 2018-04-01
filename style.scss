@@ -14,6 +14,9 @@
 @import url(web-fonts-url("IBM Plex Serif"));
 @import url(web-fonts-url("Overpass"));
 @import url(web-fonts-url("Bungee Shade"));
+@import url(web-fonts-url("Unica One"));
+@import url(web-fonts-url("Crimson Text"));
+
 
 
 // Syntax highlighting @import is at the bottom of this file
@@ -34,7 +37,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $serif;
+  font: 18px/1.4 $body;
   color: $darkGray;
 }
 
@@ -46,7 +49,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sans;
+  font-family: $headers;
   color: $darkerGray;
   font-weight: bold;
 
