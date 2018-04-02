@@ -10,14 +10,9 @@
 
 // set up web fonts
 @import "web-fonts";
-@import url(web-fonts-url("IBM Plex Sans"));
-@import url(web-fonts-url("IBM Plex Serif"));
-@import url(web-fonts-url("Overpass"));
-@import url(web-fonts-url("Bungee Shade"));
+@import url(web-fonts-url("Secular One"));
 @import url(web-fonts-url("Unica One"));
-@import url(web-fonts-url("Crimson Text"));
-
-
+@import url(web-fonts-url("Bungee Shade"));
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -29,14 +24,8 @@ html {
   font-size: 100%;
 }
 
-//body {
-//	background: $white;
-// font: 18px/1.4 $helvetica;
-// color: $darkGray;
-//}
-
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $bodytext;
   color: $darkGray;
 }
