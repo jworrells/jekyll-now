@@ -10,9 +10,15 @@
 
 // set up web fonts
 @import "web-fonts";
-@import url(web-fonts-url("Secular One"));
-@import url(web-fonts-url("Unica One"));
+
+// site name font
 @import url(web-fonts-url("Bungee Shade"));
+
+// header font
+@import url(web-fonts-url("Questrial"));
+
+// body text font
+@import url(web-fonts-url("Alegreya"));
 
 // Syntax highlighting @import is at the bottom of this file
 
