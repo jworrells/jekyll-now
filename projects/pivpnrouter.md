@@ -4,8 +4,6 @@ title: Pi VPN Router
 permalink: /projects/pivpnrouter/
 ---
 
-# VPN Router Running on a Raspberry Pi
-
 Introduction Paragraph
 
 * step 1
